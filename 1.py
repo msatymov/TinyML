@@ -2,7 +2,7 @@ import math
 # Edit these parameters to try different loss measurements. Rerun this cell when 
 # done. Your Y will be calculated as Y=wX+b, so if w=3, and b=-1, then Y=3x-1.
 
-w = 3
+w = 3 #optimize loss(weight) in this example  if w=2 than our loss zero 
 b = -1
 
 x = [-1, 0, 1, 2, 3, 4]
