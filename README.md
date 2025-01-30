@@ -1,3 +1,3 @@
 # TinyML
-Applied TinyML from intro to deployed application 
+Applied TinyML application. 
 Credits to Harvard-X
